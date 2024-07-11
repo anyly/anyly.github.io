@@ -1,1 +1,1 @@
-https://anyly.github.io/index.html
+http://example.com/posts/1.html
